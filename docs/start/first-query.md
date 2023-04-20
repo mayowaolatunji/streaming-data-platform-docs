@@ -39,6 +39,6 @@ query the latest 10 blocks on ETH network:
 After you created a query, the run triangle button will appear to be green, 
 and you can press it now to see the results:
 
-![IDE query execution](/img/ide/query_execution.png)
+![IDE query execution](https://github.com/mayowaolatunji/streaming-data-platform-docs/blob/bfff9241116a8f173b867b141211f49617a1a461/static/img/ide/query_execution.png)
 
 
