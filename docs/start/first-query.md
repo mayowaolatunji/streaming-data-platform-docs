@@ -18,7 +18,7 @@ Query editor is in the center of the screen, and you can use handy Ctrl-Space ke
 combination to see all possible options that you can enter at edit point. On the empty 
 editor, it will show the drop-down list:
 
-![IDE context menu](/img/ide/context_menu.png)
+![IDE context menu](https://github.com/mayowaolatunji/streaming-data-platform-docs/blob/3f6bd0288913b4ee69ab3b63d1ba9de07876d0b0/static/img/ide/context_menu.png)
 
 So you can type the query using hints from IDE. As example, you can
 query the latest 10 blocks on ETH network:
